@@ -2,7 +2,7 @@
 
 ## 🙋🏼‍♂️ A little bit about me
 
-With over seven years of experience in developing fast and secure enterprise applications and solutions for large organizations, I excel in collaborating effectively with teams of varying sizes. I am a dedicated and hardworking professional currently focused on iOS application development using Swift, and I am eager to advance to the next stage of my career as a **software architecture**.
+With over seven years of experience in developing fast and secure enterprise applications and solutions for large organizations, I excel in collaborating effectively with teams of varying sizes. I am a dedicated and hardworking professional currently focused on iOS application development using Swift, and I am eager to advance to the next stage of my career as a **software architect**.
 
 ## 🔧 Let's talk about some tech, right?
 
