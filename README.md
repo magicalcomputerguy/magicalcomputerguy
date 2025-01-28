@@ -1,4 +1,4 @@
-# 🖥️ Hi, I'm Ramiz. Welcome to my coding world!
+# 🖥️ Hi, I'm Kaan. Welcome to my coding world!
 
 ## 🙋🏼‍♂️ A little bit about me
 
@@ -13,6 +13,12 @@ My technical expertise includes .NET, Java, MSSQL, React, React Native, Swift, S
 - 🔭 I’m currently working in Aerospace Industry and learning a lot about Aviation ✈️.
 - 🌱 I’m currently learning about **software architectures** and making a solid background on backend and cloud services.
 - 📫 You can reach me via e-mail and ask about anything.
+
+- Books that I reading/read
+☑️ Clean Architecture
+☑️ Designing Data-Intensive Applications: The Big Ideas Behind
+✅ Effective Java
+✅ Design Patterns: Elements of Reusable Object-Oriented Software
 
 <!--
 **premiumbrain/premiumbrain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
