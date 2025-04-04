@@ -6,7 +6,7 @@ With over seven years of experience in developing fast and secure enterprise app
 
 ## 🔧 Let's talk about some tech, right?
 
-My technical expertise includes .NET, Java, MSSQL, React, React Native, Swift, SwiftUI, UIKit, and the Spring Framework. Additionally, I possess knowledge in microservices, blockchain technologies, virtualization, augmented reality, cybersecurity, and game development.
+My technical expertise includes .NET, Java and Spring, Cloud Technologies (Primarily AWS, Azure), Software Architecture & Design Patterns and Agile Methodologies. Additionally, I possess knowledge in microservices, blockchain technologies, virtualization, augmented reality, cybersecurity, and game development.
 
 ## and more..
 
